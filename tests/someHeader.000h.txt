@@ -1,0 +1,5 @@
+[File Information]
+Number of Channels="122"
+Samples Per Second="1000"
+Samples Per Scan="1000"
+Seconds="9"
